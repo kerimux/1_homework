@@ -18,7 +18,8 @@ Over 50 million people use Cash App, almost all users are based in the US and ha
 [Cash App](https://cash.app/)
 ### Bitcoin (Spiral and TBD)
 Bitcoin is a decentralized digital currency created in 2009 by an anonymous entity known as Satoshi Nakamoto. It operates on a secure blockchain network, with a fixed supply of 21 million coins. Bitcoin is not controlled by any central authority and is highly divisible. It is known for its price volatility and is used for various purposes, including as a store of value, a medium of exchange, and an investment. Bitcoin is global and borderless, allowing for cross-border transactions. It has garnered significant attention and debate in the financial world and continues to evolve in its adoption and use.
-Spiral and TBD are two initiatives under the Block’s umbrella that focus entirely on Bitcoin. While Spiral is dedicated to building and funding “open-source projects aimed at making bitcoin the planet’s preferred currency,” TBD is currently focused on developing a decentralized bitcoin exchange. Make the decentralized financial world accessible – for everyone. 
+Spiral and TBD are two initiatives under the Block’s umbrella that focus entirely on Bitcoin. While Spiral is dedicated to building and funding “open-source projects aimed at making bitcoin the planet’s preferred currency,” TBD is currently focused on developing a decentralized bitcoin exchange. Making the decentralized financial world accessible – for everyone. 
+
 [Spiral: "Making bitcoin more than an investment."](https://spiral.xyz/)
 
 [TBD: "Decentralized and trustless systems create a world that empowers individuals".](https://www.tbd.website/)
